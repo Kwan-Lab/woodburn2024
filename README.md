@@ -1,0 +1,1 @@
+Data associated with the paper, Woodburn SC et al., Psilocybin facilitates fear extinction: importance of dose, context, and serotonin receptors. ACS Chemical Neuroscience (2024).
